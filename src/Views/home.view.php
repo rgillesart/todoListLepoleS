@@ -8,7 +8,7 @@ require_once(__DIR__ . "/Parts/head.php");
 <?php
 
 
-require_once()
+require_once(__DIR__ . "/Parts/footer.php");
 
 
 ?>
